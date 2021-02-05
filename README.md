@@ -19,9 +19,9 @@ technologies.
 
 # * TECHNOLOGIES *
 
-## proficient
-Programming Languages (C sharp, Java).
-Frameworks (ASP.NET, Android and Spark).
+<ol> Proficiency
+<li>Programming Languages (C sharp, Java).</li>
+<li>Frameworks (ASP.NET, Android and Spark).</li>
 Databases (Firebase, MySQL and PostgreSQL).
 Unit Testing
 Git
@@ -29,4 +29,5 @@ REST APIs
 HTML/CSS
 Azure cloud fundamentals.
 Microsoft 365.
+</ol>
 
