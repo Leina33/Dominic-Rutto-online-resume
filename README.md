@@ -4,7 +4,7 @@
 
 ## 814 - 0100 |  ELDAMA RAVINE KENYA
 
-## +254713484567 |[LinkedIn] (​ https://www.linkedin.com/in/dominic-rutto-82363a116)|
+## +254713484567 |[LinkedIn] (​https://www.linkedin.com/in/dominic-rutto-82363a116)|
 
 # Profile Summary 
 
