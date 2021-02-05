@@ -4,7 +4,7 @@
 
 ## 814 - 0100 |  ELDAMA RAVINE KENYA
 
-## +254713484567 | Email[dominickrutto@gmail.com] |
+## +254713484567 |[Email] (dominickrutto@gmail.com)|
 
 # Profile Summary 
 
