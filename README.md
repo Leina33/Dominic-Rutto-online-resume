@@ -51,12 +51,14 @@ Social responsibility, Initiative & Adaptability.
 
 # Work experience
 
-*Worked as attaché student*
+Worked as attaché student
 
 ### JUNE 2019 – AUGUST 2019: 
-*Value Edge Limited, Westlands Nairobi*
+Value Edge Limited, Westlands Nairobi
+skills:
 Networking, organization software outsourcing and hardware maintenance.
 
 ### July 2017 - September 2017: 
-*REALE HOSPITAL ELDORET*
+REALE HOSPITAL ELDORET
+skills:
 Quality Assurances: ​ Testing hospital software before being deployed for data
