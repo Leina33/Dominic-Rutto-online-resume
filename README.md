@@ -19,6 +19,7 @@ technologies.
 
 ## Technologies 
 
+**Proficiency**
 <ol> Proficiency
 <li>Programming Languages (C sharp, Java).</li>
 <li>Frameworks (ASP.NET, Android and Spark).</li>
@@ -38,3 +39,7 @@ technologies.
     <li>Javascript, Angular framework</li>
 </ol>
 
+## Career Objectives
+
+To find a challenging position that meets my competence, capabilities, skills, education,
+experience and provide an opportunity for learning and growth.
