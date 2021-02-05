@@ -56,5 +56,7 @@ Social responsibility, Initiative & Adaptability.
 ### JUNE 2019 – AUGUST 2019: 
 *Value Edge Limited, Westlands Nairobi*
 Networking, organization software outsourcing and hardware maintenance.
-July 2017 - September 2017: REALE HOSPITAL ELDORET
+
+### July 2017 - September 2017: 
+*REALE HOSPITAL ELDORET*
 Quality Assurances: ​ Testing hospital software before being deployed for data
