@@ -4,7 +4,7 @@
 
 ## 814 - 0100 |  ELDAMA RAVINE KENYA
 
-## +254713484567 | dominickrutto@gmail.com |
+## +254713484567 | Email[dominickrutto@gmail.com] |
 
 # Profile Summary 
 
@@ -55,11 +55,11 @@ Worked as attaché student
 
 ### JUNE 2019 – AUGUST 2019: 
 Value Edge Limited, Westlands Nairobi
-#### skills:<ul><li></li>
-Networking, organization software outsourcing and hardware maintenance.</li></ul>
+#### skills:<ol>
+Networking, organization software outsourcing and hardware maintenance.</ol>
 
 ### July 2017 - September 2017: 
 REALE HOSPITAL ELDORET
-#### skills:<ul><li>
-Quality Assurances: ​ Testing hospital software before being deployed for data</li>
-</ul>
+#### skills:<ol>
+Quality Assurances: ​ Testing hospital software before being deployed for data
+</ol>
