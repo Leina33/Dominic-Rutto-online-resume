@@ -6,7 +6,7 @@
 
 ## +254713484567 | dominickrutto@gmail.com |
 
-# * Profile Summary *
+# Profile Summary 
 
 I am a self-motivated individual who is result-oriented, ready to work under minimal
 supervision, willing to learn and meet new challenges in a diverse working
@@ -17,7 +17,7 @@ Cloud computing and Real-time programming enthusiast precisely on microcontrolle
 technologies.
 
 
-# * TECHNOLOGIES *
+## Technologies 
 
 <ol> Proficiency
 <li>Programming Languages (C sharp, Java).</li>
@@ -29,5 +29,12 @@ technologies.
 <li>HTML/CSS</li>
 <li>Azure cloud fundamentals.</li>
 <li>Microsoft 365.</li>
+</ol>
+
+## Expertise in:
+<ol>
+    <li>Python Django Framework</li>
+    <li>HTML/CSS</li>
+    <li>Javascript, Angular framework</li>
 </ol>
 
