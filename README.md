@@ -43,3 +43,18 @@ technologies.
 
 To find a challenging position that meets my competence, capabilities, skills, education,
 experience and provide an opportunity for learning and growth.
+
+## Personnal Attributes
+
+Result-oriented, Team player, Integrity, Accountability, Willingness to learn, Customer service,
+Social responsibility, Initiative & Adaptability.
+
+# *Work experience*
+
+*Worked as attaché student*
+
+### JUNE 2019 – AUGUST 2019: 
+*Value Edge Limited, Westlands Nairobi*
+Networking, organization software outsourcing and hardware maintenance.
+July 2017 - September 2017: REALE HOSPITAL ELDORET
+Quality Assurances: ​ Testing hospital software before being deployed for data
