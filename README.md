@@ -55,10 +55,11 @@ Worked as attaché student
 
 ### JUNE 2019 – AUGUST 2019: 
 Value Edge Limited, Westlands Nairobi
-skills:
-Networking, organization software outsourcing and hardware maintenance.
+#### skills:<ul><li></li>
+Networking, organization software outsourcing and hardware maintenance.</li></ul>
 
 ### July 2017 - September 2017: 
 REALE HOSPITAL ELDORET
-skills:
-Quality Assurances: ​ Testing hospital software before being deployed for data
+#### skills:<ul><li>
+Quality Assurances: ​ Testing hospital software before being deployed for data</li>
+</ul>
