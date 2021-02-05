@@ -22,12 +22,12 @@ technologies.
 <ol> Proficiency
 <li>Programming Languages (C sharp, Java).</li>
 <li>Frameworks (ASP.NET, Android and Spark).</li>
-Databases (Firebase, MySQL and PostgreSQL).
-Unit Testing
-Git
-REST APIs
-HTML/CSS
-Azure cloud fundamentals.
-Microsoft 365.
+<li>Databases (Firebase, MySQL and PostgreSQL).</li>
+<li>Unit Testing</li>
+<li>Git</li>
+<li>REST APIs</li>
+<li>HTML/CSS</li>
+<li>Azure cloud fundamentals.</li>
+<li>Microsoft 365.</li>
 </ol>
 
