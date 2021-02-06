@@ -5,9 +5,10 @@
  <ul>
  <li> 814 - 0100 </li>
  <li>ELDAMA RAVINE KENYA</li>
- +254713484567       
- [Email](dominickrutto@gmail.com)
- [Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/)
+ <li>+254713484567</li>       
+ <li>[Email](dominickrutto@gmail.com)
+ <li>[Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) </li>
+ <li>[Github](https://github.com/Leina33)</li>
  </ul>
 
 ## Profile Summary 
