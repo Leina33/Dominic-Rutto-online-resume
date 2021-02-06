@@ -71,4 +71,4 @@ Quality Assurances: ​ Testing hospital software before being deployed for data
                Bachelor of science (Information Technology)
                
 ### 2011 – 2014: **CHEWOYET BOYS' HIGH SCHOOL**
-                 Awarded certicate
+Awarded  kenya high school certificate
