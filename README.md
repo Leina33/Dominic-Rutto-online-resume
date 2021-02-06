@@ -3,9 +3,9 @@
 ---------------------------------------------------------
 
  
- 814 - 0100 <br>
- NAIROBI, KENYA<br>
- +254713484567
+ 814 - 0100, <br>
+ NAIROBI, KENYA,<br>
+ +254713484567.
 
 
  ### [Email](dominickrutto@gmail.com) |[Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) |[Github](https://github.com/Leina33)
@@ -28,9 +28,9 @@ technologies.
 **Proficiency**
 
 <ol>
-<li>Programming Languages (C sharp, Java).</li>
+<li>Programming Language (C# c++).</li>
 <li>Databases ( MySQL and PostgreSQL).</li>
-<li>Unit Testing</li>
+<li>Software Testing</li>
 <li>Git</li>
 <li>REST APIs</li>
 <li>HTML/CSS</li>
@@ -56,7 +56,7 @@ Social responsibility, Initiative & Adaptability.
 
 ## Work experience
 
-Worked as attaché student
+Worked as Intern 
 
 ### JUNE 2019 – AUGUST 2019: 
 __Value Edge Limited, Westlands Nairobi__
@@ -87,9 +87,9 @@ Certificate of primary school education
 
 ## Referees 
 
-Dr. Patrick Mokodir             | MR. ALLAN KIPROP
---------------------------------|----------------------------------------------------------------
-Chairman, I.T Department        | VALUE EDGE LIMITED
-Multimedia University of Kenya. | Chief Executive Officer
-+254 792 253 264                | +254717506427
-Email: ​ pmokodir@mmu.ac.ke      | Email​ : ​ akiprop@valueedge.co.ke
+Dr. Patrick Mokodir             | MR. ALLAN KIPROP                | Ms. KWASI ADI-DAKO
+--------------------------------|---------------------------------|-------------------------------
+Chairman, I.T Department        | VALUE EDGE LIMITED              |Director of learning
+Multimedia University of Kenya. | Chief Executive Officer         |Moringa School
++254 792 253 264                | +254717506427                   |Telephone Number: 0757057703
+Email: ​ pmokodir@mmu.ac.ke      | Email​ : ​ akiprop@valueedge.co.ke|
