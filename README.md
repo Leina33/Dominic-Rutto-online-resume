@@ -4,7 +4,8 @@
 
 ## 814 - 0100 |  ELDAMA RAVINE KENYA
 
-## +254713484567 [Email](dominickrutto@gmail.com)
+## +254713484567 [Email](dominickrutto@gmail.com) 
+## [Linkedin] (https://www.linkedin.com/in/dominic-rutto-82363a116/)
 
 ## Profile Summary 
 
@@ -23,8 +24,7 @@ technologies.
 
 <ol>
 <li>Programming Languages (C sharp, Java).</li>
-<li>Frameworks (ASP.NET, Android and Spark).</li>
-<li>Databases (Firebase, MySQL and PostgreSQL).</li>
+<li>Databases ( MySQL and PostgreSQL).</li>
 <li>Unit Testing</li>
 <li>Git</li>
 <li>REST APIs</li>
@@ -35,9 +35,9 @@ technologies.
 
 ## Expertise in:
 
-    - [x] Python Django Framework
-    - [] HTML/CSS
-    - [] Javascript, Angular framework
+    - Python Django Framework
+    - HTML/CSS
+    - Javascript, Angular framework
 
 
 ## Career Objectives
