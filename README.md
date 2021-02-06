@@ -51,7 +51,7 @@ To find a challenging position that meets my competence, capabilities, skills, e
 experience and provide an opportunity for learning and growth.
 
 ## Personnal Attributes
-
+acquired
 Result-oriented, Team player, Integrity, Accountability, Willingness to learn, Customer service,
 Social responsibility, Initiative & Adaptability.
 
@@ -61,13 +61,15 @@ Worked as attaché student
 
 ### JUNE 2019 – AUGUST 2019: 
 __Value Edge Limited, Westlands Nairobi__
-#### skills acquired:
-Networking, organization software outsourcing and hardware maintenance.
+#### Responsiblities: 
+Firm Networking, organization software outsourcing and hardware maintenance.
 
 ### July 2017 - September 2017: 
 REALE HOSPITAL ELDORET
-#### skills:<ol>
-Quality Assurances: ​ Testing hospital software before being deployed for data
+#### Responsibilities:-
+Quality Assurances: ​ Testing hospital software before being deployed for data entry<br>
+Computer network troubleshooting<br>
+And responsible for checking security biometric systems
 </ol>
 
 ## Education
