@@ -10,7 +10,7 @@
 
  ### [Email](dominickrutto@gmail.com)
  ### Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/)
- ### [Github](https://github.com/Leina33)</li>
+ ### [Github](https://github.com/Leina33)
  
 
 ## Profile Summary 
