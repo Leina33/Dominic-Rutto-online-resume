@@ -56,12 +56,13 @@ Social responsibility, Initiative & Adaptability.
 
 ## Work experience
 
-Worked as Intern 
+### Worked as Intern 
 
 ### JUNE 2019 – AUGUST 2019: 
 __Value Edge Limited, Westlands Nairobi__
 #### Responsiblities: 
-Firm Networking, organization software outsourcing and hardware maintenance.
+Firm computer system Networking, organization software outsourcing and hardware maintenance.<br>
+Data visulization and outsourcing
 
 ### July 2017 - September 2017: 
 __REALE HOSPITAL ELDORET__
