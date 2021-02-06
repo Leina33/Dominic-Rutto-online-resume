@@ -64,7 +64,7 @@ __Value Edge Limited, Westlands Nairobi__
 Firm Networking, organization software outsourcing and hardware maintenance.
 
 ### July 2017 - September 2017: 
-REALE HOSPITAL ELDORET
+__REALE HOSPITAL ELDORET__
 #### Responsibilities:-
 Quality Assurances: ​ Testing hospital software before being deployed for data entry<br>
 Computer network troubleshooting<br>
