@@ -67,8 +67,11 @@ Quality Assurances: ​ Testing hospital software before being deployed for data
 
 ## Education
 
+### 2019 August - 2020 February:Moringa school Nairobi
+Cerfication in Sofware developement
+
 ### 2015 - 2019:  **MULTIMEDIA UNIVERSITY OF KENYA**
-               Bachelor of science (Information Technology)
+Bachelor of science (Information Technology)
                
 ### 2011 – 2014: **CHEWOYET BOYS' HIGH SCHOOL**
 Awarded  kenya high school certificate
