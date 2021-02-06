@@ -20,7 +20,8 @@ technologies.
 ## Technologies 
 
 **Proficiency**
-<ol> Proficiency
+
+<ol>
 <li>Programming Languages (C sharp, Java).</li>
 <li>Frameworks (ASP.NET, Android and Spark).</li>
 <li>Databases (Firebase, MySQL and PostgreSQL).</li>
