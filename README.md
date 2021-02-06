@@ -67,7 +67,8 @@ Quality Assurances: ​ Testing hospital software before being deployed for data
 
 ## Education
 
-2015 - 2019:  **MULTIMEDIA UNIVERSITY OF KENYA**
+### 2015 - 2019:  **MULTIMEDIA UNIVERSITY OF KENYA**
                <ol>
-               *Bachelor of science (Information Technology*
+               *Bachelor of science (Information Technology)*
                </ol>
+### 2011 – 2014: **CHEWOYET BOYS’ HIGH SCHOOL**
