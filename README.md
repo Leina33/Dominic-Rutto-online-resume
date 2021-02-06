@@ -35,9 +35,9 @@ technologies.
 
 ## Expertise in:
 
-    [] Python Django Framework
-    [] HTML/CSS
-    [] Javascript, Angular framework
+    - [x] Python Django Framework
+    - [] HTML/CSS
+    - [] Javascript, Angular framework
 
 
 ## Career Objectives
