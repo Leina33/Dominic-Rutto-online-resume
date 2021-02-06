@@ -51,7 +51,6 @@ To find a challenging position that meets my competence, capabilities, skills, e
 experience and provide an opportunity for learning and growth.
 
 ## Personnal Attributes
-acquired
 Result-oriented, Team player, Integrity, Accountability, Willingness to learn, Customer service,
 Social responsibility, Initiative & Adaptability.
 
@@ -69,7 +68,7 @@ REALE HOSPITAL ELDORET
 #### Responsibilities:-
 Quality Assurances: ​ Testing hospital software before being deployed for data entry<br>
 Computer network troubleshooting<br>
-And responsible for checking security biometric systems
+And responsible for checking security biometric systems.
 </ol>
 
 ## Education
