@@ -82,6 +82,9 @@ Bachelor of science (Information Technology)
 ### 2011 – 2014: **CHEWOYET BOYS' HIGH SCHOOL**
 Awarded  kenya high school certificate
 
+### 2002 - 2010 KAPRORWA PRIMARY SCHOOL
+Certificate of primary school education
+
 ## Referees 
 
 Dr. Patrick Mokodir             | MR. ALLAN KIPROP
