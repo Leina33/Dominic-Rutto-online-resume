@@ -68,4 +68,6 @@ Quality Assurances: ​ Testing hospital software before being deployed for data
 ## Education
 
 2015 - 2019:  **MULTIMEDIA UNIVERSITY OF KENYA**
+               <ol>
                *Bachelor of science (Information Technology*
+               </ol>
