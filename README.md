@@ -75,3 +75,12 @@ Bachelor of science (Information Technology)
                
 ### 2011 – 2014: **CHEWOYET BOYS' HIGH SCHOOL**
 Awarded  kenya high school certificate
+
+## Referees 
+
+Dr. Patrick Mokodir             | MR. ALLAN KIPROP
+--------------------------------|----------------------------------------------------------------
+Chairman, I.T Department        | VALUE EDGE LIMITED
+Multimedia University of Kenya. | Chief Executive Officer
++254 792 253 264                | +254717506427
+Email: ​ pmokodir@mmu.ac.ke      | Email​ : ​ akiprop@valueedge.co.ke
