@@ -8,7 +8,7 @@
  <li>+254713484567</li> 
 </ul>
 
- ### [Email](dominickrutto@gmail.com) |Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) |[Github](https://github.com/Leina33)
+ ### [Email](dominickrutto@gmail.com) |[Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) |[Github](https://github.com/Leina33)
 
  
 
