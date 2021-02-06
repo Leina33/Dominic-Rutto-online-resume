@@ -50,7 +50,7 @@ experience and provide an opportunity for learning and growth.
 Result-oriented, Team player, Integrity, Accountability, Willingness to learn, Customer service,
 Social responsibility, Initiative & Adaptability.
 
-# Work experience
+## Work experience
 
 Worked as attaché student
 
@@ -64,3 +64,8 @@ REALE HOSPITAL ELDORET
 #### skills:<ol>
 Quality Assurances: ​ Testing hospital software before being deployed for data
 </ol>
+
+## Education
+
+2015 - 2019:  **MULTIMEDIA UNIVERSITY OF KENYA**
+               *Bachelor of science (Information Technology*
