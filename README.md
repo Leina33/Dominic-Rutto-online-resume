@@ -5,10 +5,11 @@
  
  814 - 0100, <br>
  NAIROBI, KENYA,<br>
- +254713484567.
+ +254713484567.<br>
+ Email:dominickrutto@gmail.com
 
 
- ### [Email](dominickrutto@gmail.com) |[Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) |[Github](https://github.com/Leina33)
+ ###  |[Linkedin](https://www.linkedin.com/in/dominic-rutto-82363a116/) |[Github](https://github.com/Leina33)
 
  
 
